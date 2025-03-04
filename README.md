@@ -27,7 +27,6 @@ PostX is a simple social media application built with Node.js, Express, and Mong
 3. Set up environment variables:
     Create a `.env` file in the root directory and add the following:
     ```env
-    MONGO_URI=your_mongodb_connection_string
     SESSION_SECRET=your_session_secret
     JWT_SECRET=your_jwt_secret
     ```
